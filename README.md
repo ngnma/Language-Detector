@@ -5,4 +5,3 @@ Artificial intelligence Final Project - Spring 2021 - Shahid Beheshti University
 
 This program can distinguish English , French , German , Persian , Arabic.
 
-Designed by Anaconda Jupyter
